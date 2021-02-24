@@ -1,0 +1,70 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Akaya Telivigala', sans-serif;
+    font: 16px;
+}
+
+body {
+    background: #d2d2c1 url("../imagens/fundo.png");
+}
+
+.principal {
+    width: 900px;
+}
+
+.navegacao_principal {
+    background-color: #c5c1b2;
+}
+
+.navegacao_principal ul li {
+    display: inline-block;
+    padding: 20px 10px;
+}
+
+.navegacao_link {
+    text-decoration: none;
+    margin-left: 30px;
+    color: black;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+.navegacao_link:hover {
+    background-color: white;
+}
+
+.conteudo {
+    width: 900px;
+    background: #e8e8d9;
+
+}
+
+.conteudo h1,
+p {
+    padding: 10px;
+}
+
+.conteudo_img {
+    border: 10px solid #c3c3ae;
+}
+
+.conteudo h1 {
+    color: #828271;
+}
+
+.rodape {
+    width: 900px;
+    background-color: #c5c1b2;
+}
+
+.rodape p {
+    font-size: 1.5em;
+    font-weight: bold;
+    text-align: center;
+    padding: 15px 0;
+}
+
+/*-------------------------- Biografia ------------------------------------*/
+
+/*-------------------------- Campanha -------------------------------------*/
